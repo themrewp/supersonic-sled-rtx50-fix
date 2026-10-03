@@ -46,5 +46,5 @@ A log is written to `bin\cpu_cuda_log.txt` next to the demo. Set `SLED_CUDA_VERB
 ## Credits
 
 - Supersonic Sled is © NVIDIA Corporation. This is an unofficial fan fix, not affiliated with or endorsed by NVIDIA, and it contains no NVIDIA files.
-- Built by themrewp with [Claude Code](https://claude.com/claude-code) (Claude Opus 5.5).
+- Built by TheMrEWP with [Claude Code](https://claude.com/claude-code) (Claude Opus 5.5).
 - MIT licensed (see `LICENSE`). The license covers this project's own code only.
