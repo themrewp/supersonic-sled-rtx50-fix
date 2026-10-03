@@ -1,0 +1,7 @@
+LIBRARY nvcuda
+EXPORTS
+    cuD3D11CtxCreate
+    cuCtxDestroy
+    cuInit
+    cuDeviceGetCount
+    cuDriverGetVersion

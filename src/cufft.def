@@ -1,0 +1,6 @@
+LIBRARY cufft32_30_11
+EXPORTS
+    cufftPlan2d
+    cufftDestroy
+    cufftExecR2C
+    cufftExecC2R
